@@ -33,6 +33,13 @@
           "text": "Troubleshooting and FAQ"
         }
       ],
+      "/my-vault/": [
+        {
+          "source": "/my-vault/",
+          "target": "/notes/config",
+          "text": "A link to the config page"
+        }
+      ],
       "/notes/Obsidian": [
         {
           "source": "/notes/Obsidian",
@@ -184,6 +191,11 @@
         }
       ],
       "/notes/config": [
+        {
+          "source": "/my-vault/",
+          "target": "/notes/config",
+          "text": "A link to the config page"
+        },
         {
           "source": "/notes/hosting",
           "target": "/notes/config",
@@ -369,6 +381,11 @@
       "source": "/",
       "target": "/notes/troubleshooting",
       "text": "Troubleshooting and FAQ"
+    },
+    {
+      "source": "/my-vault/",
+      "target": "/notes/config",
+      "text": "A link to the config page"
     },
     {
       "source": "/notes/Obsidian",
