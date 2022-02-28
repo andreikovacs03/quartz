@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "1d80ff7d6f09c32b",
+    "type": "split",
+    "children": [
+      {
+        "id": "eca331eef01d11bf",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c7ffadd2338d932",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9102371e7e5bd3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cba26c498239769a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eaf3c5fc1df48460",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e740e1bdcd079db7",
+    "type": "split",
+    "children": [
+      {
+        "id": "007c91c39185ae5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d28d3657427fe21c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "eca331eef01d11bf",
+  "lastOpenFiles": [
+    "content/notes/hosting.md",
+    "content/notes/custom Domain.md",
+    "content/notes/config.md"
+  ]
+}
